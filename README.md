@@ -1,1 +1,1 @@
-# oop_laba1_task1
+# Rita Yurashkevich
